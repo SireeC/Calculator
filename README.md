@@ -20,6 +20,7 @@ A simple, modern, and responsive calculator built using HTML, CSS, and JavaScrip
  
 ## Project Structure
 
+```
 Calculator/
 │
 ├── index.html          # Main HTML structure
@@ -29,7 +30,8 @@ Calculator/
 │
 └── screenshot/
     └── calculator.png  # Calculator output screenshot
-    
+```
+  
 ## Preview - screenshot
 
 ![Calculator Screenshot](screenshot/calculator.png)
