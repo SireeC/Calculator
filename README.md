@@ -22,12 +22,13 @@ A simple, modern, and responsive calculator built using HTML, CSS, and JavaScrip
 
 Calculator/
 │
-├── index.html
-├── style.css
-├── script.js
-├── README.md
+├── index.html          # Main HTML structure
+├── style.css           # CSS styling and responsive design
+├── script.js           # Calculator functionality
+├── README.md           # Project documentation
+│
 └── screenshot/
-    └── calculator.png
+    └── calculator.png  # Calculator output screenshot
     
 ## Preview - screenshot
 
